@@ -12,4 +12,5 @@ def detail():
 
 
 b = 2
+c = 4
 
